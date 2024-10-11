@@ -78,18 +78,18 @@ Explore trends over time, such as loan applications by state, purpose, and home 
 ## Visualization
 The Power BI report contains multiple pages, including:
 ### Summary Page : 
--- Displays high-level metrics: loan applications, funded amounts, received amounts, interest rates, and debt-to-income (DTI) ratios.
+- Displays high-level metrics: loan applications, funded amounts, received amounts, interest rates, and debt-to-income (DTI) ratios.
 -- Provides a visual breakdown of good vs. bad loans.
 ### Overview Page :
--- Shows trends in loan applications over time.
--- Visualizes loan applications by state, purpose, and term.
+- Shows trends in loan applications over time.
+- Visualizes loan applications by state, purpose, and term.
 ### Details Page
--- Presents a detailed table view of individual loans.
--- Includes filters for loan type, grade, and purpose for deeper analysis
+- Presents a detailed table view of individual loans.
+- Includes filters for loan type, grade, and purpose for deeper analysis
 Screenshots of the visuals can be found in the /images folder.
 
 ## How to Use
-- Access the Power BI report (Tech Giants: Stock Data Analysis (2014-2023)) in Power BI Service.
+- Access the Power BI report (Bank Loan Analysis Dashboard) in Power BI Service.
   -- [Report LINK](https://tinyurl.com/24ua8yad)
   > Right-click the link and select "Open in new tab" or "Open in new window" for better navigation.
   
