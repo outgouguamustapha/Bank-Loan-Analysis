@@ -1,5 +1,4 @@
-# Bank-Loan-Analysis
-Bank Loan Analysis Dashboard
+# Bank Loan Analysis Dashboard
 This repository contains a Power BI project that analyzes loan data, providing insights into loan applications, funded amounts, interest rates, and various financial metrics. The visualizations are aimed at understanding the distribution of good and bad loans, with detailed information on loan terms, purposes, home ownership, and loan status.
 
 ## Table of Contents
