@@ -77,13 +77,13 @@ Explore trends over time, such as loan applications by state, purpose, and home 
 
 ## Visualization
 The Power BI report contains multiple pages, including:
-- Summary Page : 
+### Summary Page : 
 -- Displays high-level metrics: loan applications, funded amounts, received amounts, interest rates, and debt-to-income (DTI) ratios.
 -- Provides a visual breakdown of good vs. bad loans.
-- Overview Page :
+### Overview Page :
 -- Shows trends in loan applications over time.
 -- Visualizes loan applications by state, purpose, and term.
-- Details Page
+### Details Page
 -- Presents a detailed table view of individual loans.
 -- Includes filters for loan type, grade, and purpose for deeper analysis
 Screenshots of the visuals can be found in the /images folder.
