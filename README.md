@@ -4,7 +4,7 @@ This repository contains a Power BI project that analyzes loan data, providing i
 
 ## Table of Contents
 - [Overview](#overview)
-- [Data Source](#data-Structure)
+- [Data Structure](#data-Structure)
 - [Project Structure](#project-Structure)
 - [Features](#features)
 - [Visualization](#visualization)
